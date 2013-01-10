@@ -1,0 +1,742 @@
+23/05/2012 04:39:17 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:39:17 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:39:17 PM
+23/05/2012 04:42:54 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:43:20 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:43:20 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:43:20 PM
+23/05/2012 04:43:20 PM
+23/05/2012 04:43:20 PMArray
+23/05/2012 04:43:20 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:43:20 PM
+23/05/2012 04:43:20 PM
+23/05/2012 04:43:20 PM
+23/05/2012 04:44:40 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:44:40 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:44:40 PMpruebajax|formulario
+23/05/2012 04:44:40 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:44:40 PMArray,Array
+23/05/2012 04:44:40 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:44:40 PMpruebajax|formulario
+23/05/2012 04:44:40 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:44:40 PM
+23/05/2012 04:44:40 PM<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:44:53 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />,
+23/05/2012 04:44:53 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:44:53 PMnombreajax
+23/05/2012 04:44:53 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:44:53 PMArray
+23/05/2012 04:44:53 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:44:53 PMnombreajax
+23/05/2012 04:44:53 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:44:53 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:45:15 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:45:15 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:45:15 PMpruebajax|formulario
+23/05/2012 04:45:15 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:45:15 PMArray,Array
+23/05/2012 04:45:15 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:45:15 PMpruebajax|formulario
+23/05/2012 04:45:15 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:45:15 PM
+23/05/2012 04:45:15 PM<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:45:26 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />,
+23/05/2012 04:45:26 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:45:26 PMnombreajax
+23/05/2012 04:45:26 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:45:26 PMArray
+23/05/2012 04:45:26 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:45:26 PMnombreajax
+23/05/2012 04:45:26 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:45:26 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:53:54 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:53:54 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:53:54 PMpruebajax|formulario
+23/05/2012 04:53:54 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:53:54 PMArray,Array
+23/05/2012 04:53:54 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:53:54 PMpruebajax|formulario
+23/05/2012 04:53:54 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:53:54 PM
+23/05/2012 04:53:54 PM<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:54:03 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:54:03 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:54:03 PMpruebajax|formulario
+23/05/2012 04:54:03 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:54:03 PMArray,Array
+23/05/2012 04:54:03 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:54:03 PMpruebajax|formulario
+23/05/2012 04:54:03 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:54:03 PM
+23/05/2012 04:54:03 PM<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:54:26 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />,
+23/05/2012 04:54:26 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:54:26 PMnombreajax
+23/05/2012 04:54:26 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:54:26 PMArray
+23/05/2012 04:54:26 PMnombreajax||<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:54:26 PMnombreajax
+23/05/2012 04:54:26 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:54:26 PM<input  type="text" class="textbox obligado "  id="nombre" name="nombre" size="40" maxlength="50"   />
+23/05/2012 04:54:33 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>,
+23/05/2012 04:54:33 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:33 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:33 PM
+23/05/2012 04:54:33 PMArray
+23/05/2012 04:54:33 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:33 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:33 PM
+23/05/2012 04:54:33 PM
+23/05/2012 04:54:48 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>,
+23/05/2012 04:54:48 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:48 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:48 PM
+23/05/2012 04:54:48 PMArray
+23/05/2012 04:54:48 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:48 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:48 PM
+23/05/2012 04:54:48 PM
+23/05/2012 04:54:53 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>,
+23/05/2012 04:54:53 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:53 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:53 PM
+23/05/2012 04:54:53 PMArray
+23/05/2012 04:54:53 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:53 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:54:53 PM
+23/05/2012 04:54:53 PM
+23/05/2012 04:55:15 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>,
+23/05/2012 04:55:15 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:55:15 PMpruebajax|formulario
+23/05/2012 04:55:15 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:55:15 PMArray,Array
+23/05/2012 04:55:15 PMpruebajax|formulario|||<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:55:15 PMpruebajax|formulario
+23/05/2012 04:55:15 PM|<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:55:15 PM
+23/05/2012 04:55:15 PM<h2>Registro de Nueva Zona</h2><form name="zonaform" id="zonaform"><div id="zonaidajax"><input  type="hidden" class="textbox "  id="zonaid" name="zonaid" size="10" maxlength="10"  0 /></div><label for="nombre">Nombre</label><div id="nombreajax"><input  type="text" class="textbox "  id="nombre" name="nombre" size="50" maxlength="50"   /></div><label for="activo">Activo</label><div id="activoajax"><input  type="checkbox" class="textbox "  id="activo" name="activo" size="10" maxlength="10"  checked /></div><label for="nota">Nota</label><div id="notaajax"><textarea class="textbox" rows="8" cols="70" name="nota" id="nota"></textarea></div><div id="ajax"><input  type="button" class="button medium blue "  id="Guardar" name="Guardar"    value="Guardar" onclick="javascript:post('zonas',this.form,'save','')"/></div></form>
+23/05/2012 04:56:54 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>,
+23/05/2012 04:56:54 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:56:54 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:56:54 PM
+23/05/2012 04:56:54 PMArray
+23/05/2012 04:56:54 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:56:54 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 04:56:54 PM
+23/05/2012 04:56:54 PM
+23/05/2012 06:19:11 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>,
+23/05/2012 06:19:12 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 06:19:12 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 06:19:12 PM
+23/05/2012 06:19:12 PMArray
+23/05/2012 06:19:12 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 06:19:12 PM<div id="header"   >
+			<a class="headerlink" onclick="return loaddashboard('zonas&fnt=dashboard');">Zonas</a>
+		   </div><div id="dbcontent"   >
+			<ul class="clearfix" id="nav">
+				<li>
+					<a class="radius" onclick="return newgotofunction('zonas','add');">
+						<div class="image">
+							<img alt="Agregar" src="img/new.png" width="48">
+						</div>
+						<div class="title">Agregar</div>
+					</a>
+				</li><li>
+					<a class="radius" onclick="return newgotofunction('zonas','view');">
+						<div class="image">
+							<img alt="Lista" src="img/view.png" width="48">
+						</div>
+						<div class="title">Lista</div>
+					</a>
+				</li>
+				</ul>
+		   </div>
+23/05/2012 06:19:12 PM
+23/05/2012 06:19:12 PM
+08/08/2012 05:21:15 PMArray
+(
+    [0] => dashboard
+)
+
+08/08/2012 05:29:19 PMArray
+(
+    [0] => dashboard
+    [1] => 
+)
+
+08/08/2012 05:29:20 PMArray
+(
+    [0] => view
+    [1] => 
+)
+
+08/08/2012 05:30:48 PMArray
+(
+    [0] => dashboard
+    [1] => 
+)
+
+08/08/2012 05:30:49 PMArray
+(
+    [0] => view
+    [1] => 
+)
+
+08/08/2012 05:30:59 PMArray
+(
+    [0] => dashboard
+    [1] => 
+)
+
+08/08/2012 05:31:17 PMArray
+(
+    [0] => view
+    [1] => 
+)
+
+08/08/2012 05:33:19 PMArray
+(
+    [0] => dashboard
+    [1] => 
+)
+
+08/08/2012 05:33:19 PMArray
+(
+    [0] => view
+    [1] => 
+)
+
+08/08/2012 05:35:24 PMArray
+(
+    [0] => view
+    [1] => 
+)
+
+08/08/2012 05:35:28 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:37:50 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:38:11 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:38:15 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:38:38 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:40:37 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:40:41 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
+08/08/2012 05:40:54 PMArray
+(
+    [0] => find
+    [1] => 
+)
+
